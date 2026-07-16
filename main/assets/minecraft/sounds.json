@@ -1,0 +1,683 @@
+{
+    "music.creative": {
+      "replace": true
+    },
+    "music.dragon": {
+      "replace": true
+    },
+    "music.end": {
+      "replace": true
+    },
+    "music.game": {
+      "replace": true
+    },
+    "music.menu": {
+      "replace": true
+    },
+    "music.nether.basalt_deltas": {
+      "replace": true
+    },
+    "music.nether.crimson_forest": {
+      "replace": true
+    },
+    "music.nether.nether_wastes": {
+      "replace": true
+    },
+    "music.nether.soul_sand_valley": {
+      "replace": true
+    },
+    "music.nether.warped_forest": {
+      "replace": true
+    },
+    "music.overworld.badlands": {
+      "replace": true
+    },
+    "music.overworld.bamboo_jungle": {
+      "replace": true
+    },
+    "music.overworld.cherry_grove": {
+      "replace": true
+    },
+    "music.overworld.deep_dark": {
+      "replace": true
+    },
+    "music.overworld.desert": {
+      "replace": true
+    },
+    "music.overworld.dripstone_caves": {
+      "replace": true
+    },
+    "music.overworld.flower_forest": {
+      "replace": true
+    },
+    "music.overworld.forest": {
+      "replace": true
+    },
+    "music.overworld.frozen_peaks": {
+      "replace": true
+    },
+    "music.overworld.grove": {
+      "replace": true
+    },
+    "music.overworld.jagged_peaks": {
+      "replace": true
+    },
+    "music.overworld.jungle": {
+      "replace": true
+    },
+    "music.overworld.lush_caves": {
+      "replace": true
+    },
+    "music.overworld.meadow": {
+      "replace": true
+    },
+    "music.overworld.old_growth_taiga": {
+      "replace": true
+    },
+    "music.overworld.snowy_slopes": {
+      "replace": true
+    },
+    "music.overworld.sparse_jungle": {
+      "replace": true
+    },
+    "music.overworld.stony_peaks": {
+      "replace": true
+    },
+    "music.overworld.swamp": {
+      "replace": true
+    },
+    "music.under_water": {
+      "replace": true
+    },
+	"sound.custom.kill":{
+		"sounds": [
+           "custom/kill"
+		]
+	},
+	"block.barrel.open": {
+	   "sounds": [
+		  {
+			 "name": "block/barrel_open1",
+			 "volume": 1,
+			 "pitch": 1
+		  },
+		  {
+			 "name": "block/barrel_open2",
+			 "volume": 1,
+			 "pitch": 1
+		  }
+	   ]
+	},
+	"block.barrel.close":{
+		"sounds": [
+           "block/barrel_close"
+		]
+    },
+	"sound.custom.endevent":{
+		"sounds": [
+		"records/blocks"
+		]
+	},
+	"sound.custom.birds":{
+		"sounds": [
+            {
+                "name": "custom/birds/birds1"
+            },
+            {
+                "name": "custom/birds/birds2"
+            },
+            {
+                "name": "custom/birds/birds3"
+            },
+            {
+                "name": "custom/birds/birds4"
+            },
+            {
+                "name": "custom/birds/birds5"
+            },
+            {
+                "name": "custom/birds/birds6"
+            },
+            {
+                "name": "custom/birds/birds7"
+            },
+            {
+                "name": "custom/birds/birds8"
+            },
+            {
+                "name": "custom/birds/birds9"
+            },
+            {
+                "name": "custom/birds/birds10"
+            }
+
+		]
+    },
+	"sound.custom.waves":{
+		"sounds": [
+            {
+                "name": "custom/water/wave1"
+            },
+            {
+                "name": "custom/water/wave2"
+            },
+            {
+                "name": "custom/water/wave3"
+            },
+            {
+                "name": "custom/water/wave4"
+            },
+            {
+                "name": "custom/water/wave5"
+            },
+            {
+                "name": "custom/water/wave6"
+            }
+            
+		]
+    },
+	"sound.custom.death":{
+		"sounds": [
+            {
+				"name": "custom/death/death1"
+			},
+			{
+				"name": "custom/death/death2"
+			},
+			{
+				"name": "custom/death/death3"
+			},
+			{
+				"name": "custom/death/death4"
+			},
+			{
+				"name": "custom/death/death5"
+			}
+		]
+	},
+	"sound.custom.wind":{
+		"sounds": [
+			{
+				"name": "custom/ambientwind/ambientwind1"
+			},
+			{
+				"name": "custom/ambientwind/ambientwind2"
+			},
+			{
+				"name": "custom/ambientwind/ambientwind3"
+			},
+
+			{
+				"name": "custom/ambientgust/ambientgust1"
+			},
+			{
+				"name": "custom/ambientgust/ambientgust2"
+			},
+			{
+				"name": "custom/ambientgust/ambientgust3"
+			},
+			{
+				"name": "custom/ambientgust/ambientgust4"
+			},
+			{
+				"name": "custom/ambientgust/ambientgust5"
+			}
+		]
+
+	},
+	"sound.custom.speed_boost1":{
+		"sounds": [
+			{
+				"name": "custom/speedpad/speedpad1"
+			},
+			{
+				"name": "custom/speedpad/speedpad2"
+			},
+			{
+				"name": "custom/speedpad/speedpad3"
+			},
+			{
+				"name": "custom/speedpad/speedpad4"
+			}
+
+		]
+    },
+		"sound.custom.glide_death":{
+		"sounds": [
+            {
+				"name": "custom/death/death1"
+			},
+			{
+				"name": "custom/death/death2"
+			},
+			{
+				"name": "custom/death/death3"
+			},
+			{
+				"name": "custom/death/death4"
+			}
+
+		]
+
+    },
+			"sound.custom.cook":{
+		"sounds": [
+				"custom/cook"
+
+		]
+
+    },
+			"sound.custom.wipeout":{
+		"sounds": [
+				"custom/wipeout"
+
+		]
+    },
+			"sound.custom.overtime":{
+		"sounds": [
+				"custom/overtime"
+
+		]
+    },
+			"sound.custom.afterparty":{
+		"sounds": [
+				"custom/afterparty"
+
+		]
+    },
+			"sound.custom.intro":{
+		"sounds": [
+				"custom/intro"
+
+		]
+    },
+			"sound.custom.wipeout1":{
+		"sounds": [
+				"custom/wipeout1"
+
+		]
+    },
+			"sound.custom.microwave":{
+		"sounds": [
+				"custom/microwave"
+
+		]
+    },
+			"sound.custom.whyblue":{
+		"sounds": [
+				"custom/why_are_you_blue"
+
+		]
+    },
+			"sound.custom.jessie":{
+		"sounds": [
+				"custom/jessie"
+
+		]
+    },
+			"sound.custom.someone_cooked":{
+		"sounds": [
+				"custom/someone_cooked"
+
+		]
+    },
+				"sound.custom.face":{
+		"sounds": [
+				"custom/face"
+
+		]
+    },
+			"sound.custom.glide_ost":{
+		"sounds": [
+				"custom/glide/glide_1"
+
+		]
+    },
+
+	"sound.custom.glide_ost2":{
+		"sounds": [
+				"custom/glide/glide_2"
+
+		]
+    },
+
+	"sound.custom.jump_boost1":{
+		"sounds": [
+			{
+				"name": "custom/jumppad/jump_pad1"
+			},
+			{
+				"name": "custom/jumppad/jump_pad2"
+			},
+			{
+				"name": "custom/jumppad/jump_pad3"
+			}
+
+		]
+    },
+
+	"sound.custom.click":{
+		"sounds": [
+           "custom/click1"
+
+		]
+    },
+
+	"sound.custom.shard":{
+		"sounds": [
+			{
+				"name": "custom/shard1"
+			},
+			{
+				"name": "custom/shard2"
+			},
+			{
+				"name": "custom/shard3"
+			}
+
+		]
+	},
+	"sound.custom.nav":{
+		"sounds": [
+           "custom/nav"
+
+		]
+    },
+	"sound.custom.settings":{
+		"sounds": [
+           "custom/settings"
+
+		]
+    },
+	"sound.custom.cataclysm":{
+		"sounds": [
+           "custom/cataclysm"
+
+		]
+    },
+	"sound.custom.cataclysm_grace":{
+		"sounds": [
+           "custom/cataclysm_grace"
+
+		]
+    },
+	"sound.custom.exit":{
+		"sounds": [
+		"custom/exit"
+
+		]
+	},
+	"sound.custom.cosmic":{
+		"sounds": [
+		"custom/cosmic"
+
+		]
+	},
+		"sound.custom.movement_swim":{
+		"sounds": [
+           "custom/swim"
+
+		]
+
+	},
+	"sound.custom.movement_boat":{
+	"sounds": [
+	   "custom/boat"
+
+	]
+
+    },
+	"sound.custom.squeeze":{
+		"sounds": [
+		   "custom/squeeze"
+	
+		]
+	
+		},
+		"sound.custom.glide_best_time":{
+		"sounds": [
+           "custom/best_time"
+
+		]
+    },
+		"sound.custom.glide_best_score":{
+		"sounds": [
+           "custom/best_score"
+
+		]
+    },
+		"sound.custom.glide_boost1":{
+		"sounds": [
+           "custom/boost"
+
+		]
+    },
+	"sound.custom.glide_boost2":{
+		"sounds": [
+           "custom/humid_boost"
+
+		]
+    },
+	"sound.custom.glide_checkpoint":{
+		"sounds": [
+           "custom/checkpoint"
+
+		]
+    },
+	"sound.custom.glide_finish":{
+		"sounds": [
+           "custom/finish_line"
+
+		]
+    },
+	"sound.custom.ping":{
+		"sounds": [
+           "custom/ping"
+
+		]
+    },
+	"sound.custom.tag":{
+		"sounds": [
+           "custom/tag"
+
+		]
+    },
+	"sound.custom.mini_alert":{
+		"sounds": [
+           "custom/mini_alert"
+
+		]
+    },
+	"sound.custom.wipeoutnew":{
+		"sounds": [
+           "custom/newwipeout"
+
+		]
+    },
+	"sound.custom.lobby":{
+		"sounds": [
+           "custom/lobby/lobby"
+
+		]
+    },
+	"sound.custom.lobby2":{
+		"sounds": [
+           "custom/lobby/lobby2"
+
+		]
+    },
+	"sound.custom.warn1":{
+		"sounds": [
+           "custom/warn1"
+
+		]
+    },
+	"sound.custom.warn2":{
+		"sounds": [
+           "custom/warn2"
+
+		]
+    },
+	"sound.custom.sts":{
+		"sounds": [
+           "custom/sts"
+		]
+    },
+	"sound.custom.rttf":{
+		"sounds": [
+           "custom/race_to_the_finish"
+		]
+    },
+	"sound.custom.selection_sphere":{
+		"sounds": [
+           "custom/selection_sphere"
+		]
+    },
+	"sound.custom.startgame":{
+		"sounds": [
+           "custom/startgame"
+		]
+    },
+	"sound.custom.voidhunters":{
+		"sounds": [
+           "custom/voidhunters"
+		]
+
+    },
+	"sound.custom.game_end":{
+		"sounds": [
+           "custom/game_end"
+		]
+    },
+	"sound.custom.map.update":{
+		"sounds": [
+           "custom/games.global.objective.map.update"
+		]
+    },
+	"sound.custom.objective_completed":{
+		"sounds": [
+           "custom/games.global.objective.objective_completed"
+		]
+    },
+	"sound.custom.capturethefslag":{
+		"sounds": [
+           "custom/capturetheflag"
+		]
+    },
+
+	"sound.custom.sb":{
+		"sounds": [
+           "custom/sb" 
+		]
+    },
+	"sound.custom.bh":{
+		"sounds": [
+           "custom/bh" 
+		]
+    },
+	"sound.custom.bhstart":{
+		"sounds": [
+           "custom/bhstart" 
+		]
+    },
+	"sound.custom.win":{
+		"sounds": [
+           "custom/win"
+		]
+    },
+	"sound.custom.winsfx":{
+		"sounds": [
+           "custom/winsfx"
+		]
+    },
+	"sound.custom.dusk":{
+		"sounds": [
+           "custom/dusk"
+		]
+    },
+	"sound.custom.elevator":{
+		"sounds": [
+           "custom/elevator"
+		]
+    },
+	"sound.custom.splatshot_start":{
+		"sounds": [
+           "custom/splatshot_start"
+		]
+    },
+	"sound.custom.splatshot":{
+		"sounds": [
+           "custom/splatshot"
+		]
+    },
+	"sound.custom.selection_xmas":{
+		"sounds": [
+           "custom/selection_sphere_xmas"
+		]
+    },
+	"sound.custom.voidclash":{
+		"sounds": [
+           "custom/voidclash"
+		]
+    },
+	"sound.custom.vcupgrades":{
+		"sounds": [
+           "custom/vcupgrades"
+		]
+    },
+	"entity.firework_rocket.blast":{
+		"sounds": [
+           "fireworks/blast1"
+		]
+    },
+	"entity.firework_rocket.blast_far":{
+		"sounds": [
+           "fireworks/blast_far1"
+		]
+    },
+	"entity.firework_rocket.large_blast":{
+		"sounds": [
+           "fireworks/largeblast1"
+		]
+    },
+	"entity.firework_rocket.large_blast_far":{
+		"sounds": [
+           "fireworks/largeblast_far1"
+		]
+    },
+	"entity.firework_rocket.launch":{
+		"sounds": [
+           "fireworks/launch1"
+		]
+    },
+	"entity.firework_rocket.twinkle":{
+		"sounds": [
+           "fireworks/twinkle1"
+		]
+    },
+	"entity.firework_rocket.twinkle_far":{
+		"sounds": [
+           "fireworks/twinkle_far1"
+		]
+    },
+	"sound.custom.amazing":{
+		"sounds": [
+           "custom/amazing"
+		]
+    },
+	"sound.custom.newlobby":{
+		"sounds": [
+           "custom/newlobby"
+		]
+    },
+	"sound.custom.movement":{
+		"sounds": [
+           "custom/movement"
+		]
+    },
+	"sound.custom.goodmorning":{
+		"sounds": [
+           "custom/good-morning-destiny-gaymes"
+		]
+    }
+}

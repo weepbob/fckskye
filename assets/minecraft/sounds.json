@@ -358,10 +358,18 @@
 
 	"sound.custom.click":{
 		"sounds": [
-           "custom/click1"
+			{
+				"name": "custom/click1"
+			},
+			{
+				"name": "custom/click2"
+			},
+			{
+				"name": "custom/click3"
+			}
 
 		]
-    },
+	},
 
 	"sound.custom.shard":{
 		"sounds": [
@@ -377,18 +385,6 @@
 
 		]
 	},
-	"sound.custom.nav":{
-		"sounds": [
-           "custom/nav"
-
-		]
-    },
-	"sound.custom.settings":{
-		"sounds": [
-           "custom/settings"
-
-		]
-    },
 	"sound.custom.cataclysm":{
 		"sounds": [
            "custom/cataclysm"
@@ -485,12 +481,6 @@
 	"sound.custom.mini_alert":{
 		"sounds": [
            "custom/mini_alert"
-
-		]
-    },
-	"sound.custom.wipeoutnew":{
-		"sounds": [
-           "custom/newwipeout"
 
 		]
     },

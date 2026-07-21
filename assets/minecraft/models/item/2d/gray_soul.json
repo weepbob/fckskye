@@ -1,6 +1,0 @@
-{
-    "textures": {
-        "layer0": "item/2d/gray_soul"
-    },
-    "parent": "item/generated"
-}

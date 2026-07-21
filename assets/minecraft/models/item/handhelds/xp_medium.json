@@ -1,6 +1,0 @@
-{
-   "parent":"minecraft:item/generated",
-   "textures":{
-      "layer0":"tropiclash:item/collectable/xp_medium"
-   }
-}

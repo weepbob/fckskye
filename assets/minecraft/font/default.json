@@ -321,15 +321,6 @@
         },
         {
             "type": "bitmap",
-            "file": "astro:_font/icons/astrofox/debug.png",
-            "ascent": 8.5,
-            "height": 9,
-            "chars": [
-                ""
-            ]
-        },
-        {
-            "type": "bitmap",
             "file": "astro:custom/wool.png",
             "ascent": 8.5,
             "height": 8,
@@ -434,15 +425,6 @@
             "height": 40,
             "chars": [
                 ""
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "astro:custom/bossbarhub.png",
-            "ascent": 14,
-            "height": 40,
-            "chars": [
-                ""
             ]
         },
         {
@@ -614,15 +596,6 @@
             "height": 8,
             "chars": [
                 ""
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "astro:custom/ctf.png", 
-            "ascent": 7.5,
-            "height": 8,
-            "chars": [
-                ""
             ]
         },
         {
